@@ -4,5 +4,3 @@ The outcome of this system is that when an image is provided as input, it genera
 
 FOR FULL MODEL ACCESS GO TO:
 https://drive.google.com/drive/folders/1xsfzYUBGm0yr7PbO336yCsWQx3xsNkRX?usp=sharing
-
-SOFTWARE USED: VS CODE AND PYCHAM PRO
